@@ -3,3 +3,4 @@
 Olá!! Bem vindo ao meu livro de receitas. :wave:
 
 - Lasanha à Bolonhesa
+- Strogonoff de Frango
